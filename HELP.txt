@@ -1,0 +1,10 @@
+compress(1)
+
+NAME
+        compress - Image compression for svg, png, jpg & jpeg
+
+SYNOPSIS
+        compress                           compress all files in pwd (default)
+        compress img/                      compress all files in dir: img
+        compress image.[svg|png|jpg|jpeg]  compress file
+        compress *.[svg|png|jpg|jpeg]      compress wildcard

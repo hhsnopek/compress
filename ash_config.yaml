@@ -1,0 +1,4 @@
+name: Compress
+package: github.com/hhsnopek/compress
+default_alias: compress
+callable_prefix: Compress
