@@ -7,7 +7,7 @@
 - [jpegoptim]
 
 ## Installation
-```
+```bash
 # git
 ash apm:install git@github.com:hhsnopek/compress.git
 
