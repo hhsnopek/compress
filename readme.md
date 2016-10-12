@@ -17,6 +17,7 @@ ash apm:install https://github.com/hhsnopek/compress.git
 
 ## Usage
 > apm compress:[help]
+
 ```
 compress(1)
 
@@ -28,7 +29,6 @@ SYNOPSIS
         compress img/                      compress all files in dir: img
         compress image.[svg|png|jpg|jpeg]  compress file
         compress *.[svg|png|jpg|jpeg]      compress wildcard
-
 ```
 
 ## License
